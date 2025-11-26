@@ -1,0 +1,62 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pkl
+*.log
+
+# Virtual envs
+venv/
+.env/
+.venv/
+env/
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconvert*
+
+# ===============================
+# Data
+# ===============================
+*.npz
+*.npy
+*.csv
+*.h5
+*.hdf5
+*.fits
+*.zip
+*.gz
+
+# Project-specific: keep only small demo datasets
+results/
+data/
+datasets/
+
+# ===============================
+# Models / training logs
+# ===============================
+*.pt
+*.pth
+*.ckpt
+wandb/
+runs/
+
+# ===============================
+# VSCode
+# ===============================
+.vscode/
+.history/
+
+# ===============================
+# OS trash + temporary
+# ===============================
+.DS_Store
+Thumbs.db
+*~
