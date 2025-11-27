@@ -137,7 +137,7 @@ You can also check out a 15-minute seminar I gave at IIP on the topic of [*Topol
 ## 📜 License
 
 This project is released under the **MIT License**.  
-See `LICENSE` for details.
+See [`LICENSE`](https://github.com/GabrielWendell/TDA-Brio-Wu_MHD_CNN-XXXIX_EFNNE/blob/main/LICENSE.txt) for details.
 
 ---
 
