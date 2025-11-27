@@ -66,7 +66,6 @@ project/
 ├── LICENSE
 ├── .gitignore
 └── README.md
-
 ```
 
 ---
@@ -76,9 +75,9 @@ project/
   We use a lightweight CNN with 3 convolutional layers:
 
 ```python
-Conv1D(2 → 32, kernel=5, padding=2) + ReLU
-Conv1D(32 → 32, kernel=5, padding=2) + ReLU
-Conv1D(32 → 2, kernel=5, padding=2)
+Conv1D(2 → 32, kernel = 5, padding = 2) + ReLU
+Conv1D(32 → 32, kernel = 5, padding = 2) + ReLU
+Conv1D(32 → 2, kernel = 5, padding = 2)
 ```
 
 - Training samples: 40 time-pairs  
