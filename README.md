@@ -121,6 +121,20 @@ This provides a clean proof-of-principle: **TDA can diagnose ML surrogate failur
 
 ---
 
+## 🪞 Poster Reference
+
+The results of this repository were presented at **“XXXIX EFNNE”** as a poster titled:  
+
+> **Topological Machine Learning for Predicting Spatiotemporal Evolution in 1D Magnetohydrodynamics**
+
+Poster and figures: [`docs/XXXIX_EFNNE_Poster.pdf`](https://github.com/GabrielWendell/TDA-Brio-Wu_MHD_CNN-XXXIX_EFNNE/blob/main/docs/XXXIX_EFNNE_Poster.pdf)
+
+You can also check out a 15-minute seminar I gave at IIP on the topic of [*Topological Data Analysis Applied to Complex Systems*](https://www.youtube.com/watch?v=KZo9ciaaBKI&list=PLqTLz9G2bGs2-ToEsAuUg3u6ZASY1UbAk&index=23&t=625s) for a more basic reference on the fundamentals of TDA.
+
+<img src = "docs/IIP_Seminar_Img.png" width="700" height="300">
+
+---
+
 ## 📜 License
 
 This project is released under the **MIT License**.  
@@ -131,4 +145,4 @@ See `LICENSE` for details.
 ## 🙌 Acknowledgments
 
 Supported by the Pos-Graduation Program in Physics (UFRN).  
-Special thanks to the DSML 2025 organizers.
+Special thanks to the XXXIX EFNNE organizers.
